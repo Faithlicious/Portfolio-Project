@@ -11,7 +11,7 @@ GitHub Stats Card
 Copy and paste this into your markdown, and that's it. Simple!
 
 Change the ?username= value to your GitHub username.
-![username' GitHub stats](https://github-readme-stats.vercel.app/api?username=username&theme=dark&hide=contribs&show_icons=true)](https://github.com/username/github-readme-stats)
+![username' GitHub stats](https ://github-readme-stats.vercel.app/api?username=username&theme=dark&hide=contribs&show_icons=true)](https://github.com/username/github-readme-stats)
 
 Features:
 
